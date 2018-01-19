@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jingtao Lai</title>
+    <link>https://laijingtao.github.io/project/</link>
+    <description>Recent content in Projects on Jingtao Lai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jingtao Lai</copyright>
+    <lastBuildDate>Thu, 18 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://laijingtao.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modeled post-glacial landscape evolution at the southern margin of the Laurentide Ice Sheet</title>
+      <link>https://laijingtao.github.io/project/postglacial/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://laijingtao.github.io/project/postglacial/</guid>
+      <description>Background Landscapes of the US Midwest were repeatedly affected by the southernmost portions of the Laurentide Ice Sheet during the Quaternary. Over much of the Midwest, depositional glacial processes diminished pre-glacial relief by filling valleys and left constructional landforms including low-relief till plains and high relief moraines. As the ice retreated, meltwater collected in subglacial or proglacial lakes leaving fine-grained, sorted sediment in the form of glacial lake plains. Glacial lakes episodically drained in outburst floods, carving deep valleys.</description>
+    </item>
+    
+  </channel>
+</rss>

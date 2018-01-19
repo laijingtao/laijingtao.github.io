@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jingtao Lai on Jingtao Lai</title>
+    <link>https://laijingtao.github.io/</link>
+    <description>Recent content in Jingtao Lai on Jingtao Lai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jingtao Lai</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Landlab</title>
+      <link>https://laijingtao.github.io/code/landlab/</link>
+      <pubDate>Thu, 18 Jan 2018 15:26:24 -0600</pubDate>
+      
+      <guid>https://laijingtao.github.io/code/landlab/</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://laijingtao.github.io/post/myfirstpost/</link>
+      <pubDate>Wed, 17 Jan 2018 21:51:22 -0600</pubDate>
+      
+      <guid>https://laijingtao.github.io/post/myfirstpost/</guid>
+      <description>&lt;h4 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h4&gt;
+
+&lt;p&gt;
+This is my personal website. I&amp;rsquo;m learning how to manage it with &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Useful links:&lt;br /&gt;
+&lt;a href=&#34;https://gohugo.io/hosting-and-deployment/hosting-on-github/&#34; target=&#34;_blank&#34;&gt;Host a website created by Hugo on Github&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/&#34; target=&#34;_blank&#34;&gt;Managing content&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Writing content&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;-Jingtao&lt;br /&gt;
+Jan 17 2018&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Modeled post-glacial landscape evolution at the southern margin of the Laurentide Ice Sheet</title>
+      <link>https://laijingtao.github.io/project/postglacial/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://laijingtao.github.io/project/postglacial/</guid>
+      <description>
+
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;Landscapes of the US Midwest were repeatedly affected by the southernmost portions of the Laurentide Ice Sheet during the Quaternary. Over much of the Midwest, depositional glacial processes diminished pre-glacial relief by filling valleys and left constructional landforms including low-relief till plains and high relief moraines. As the ice retreated, meltwater collected in subglacial or proglacial lakes leaving fine-grained, sorted sediment in the form of glacial lake plains. Glacial lakes episodically drained in outburst floods, carving deep valleys.&lt;/p&gt;
+
+&lt;p&gt;However, meltwater valleys did not provide a landscape-wide integrated drainage network. Instead, a significant fraction of the area of low-relief till plains and glacial lake plains was occupied by closed depressions and remained unconnected to external drainage networks. This area is referred to by hydrologists as non-contributing area (NCA) because it does not typically contribute surface runoff to stream networks. NCA becomes integrated into external drainage networks over time.&lt;/p&gt;
+
+&lt;h2 id=&#34;hypothesis&#34;&gt;Hypothesis&lt;/h2&gt;
+
+&lt;p&gt;We propose that this integration could occur via at least two different paths:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;through capture of NCA as channel heads propagate into the upland or,&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;through erosion of a channel along a flow path that, perhaps intermittently, connects NCA to the external drainage network.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We refer the two cases as &lt;strong&gt;“disconnected”&lt;/strong&gt; and &lt;strong&gt;“connected”&lt;/strong&gt; since the crucial difference between them is the hydrological connection of the upland to external drainage.&lt;/p&gt;
+
+&lt;h2 id=&#34;method&#34;&gt;Method&lt;/h2&gt;
+
+&lt;p&gt;We investigate the difference in morphology and rate of growth of channel networks in low relief landscapes under disconnected and connected drainage regimes using numerical simulations of fluvial and hillslope processes.&lt;/p&gt;
+
+&lt;p&gt;We use the &lt;a href=&#34;http://landlab.github.io&#34; target=&#34;_blank&#34;&gt;Landlab&lt;/a&gt; model platform to simulate the evolution of post-glacial landscapes, starting from a flat low-relief surface. The surface evolves via detachment-limited fluvial incision and hillslope diffusion.&lt;/p&gt;
+
+&lt;p&gt;The model is coupled with a new flow routing algorithm that represents upland connection by spillover of water from closed depressions. The modified version of Landlab is &lt;a href=&#34;https://github.com/laijingtao/landlab&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;findings&#34;&gt;Findings&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The growth of channel network is faster in the connected case than in the disconnected case.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;The channel network in the connected case has longer and more sinuous channels than the disconnected case.&lt;/li&gt;
+&lt;li&gt;To accomplish the same degree of integration, the connected case removes less sediment than the disconnected case.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Holding the volumes of water constant shows that the disconnected case is more efficient than the connected case at eroding for limited volumes of accumulated discharge.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I presented this research in AGU 2017 Fall Meeting. A manuscript has been submitted to &lt;em&gt;Journal of Geophysical Research: Earth Surface&lt;/em&gt;. If you want to learn more about this research, &lt;a href=&#34;mailto:jlai11@illinois.edu&#34; target=&#34;_blank&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
