@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jingtao Lai</title>
+    <link>https://laijingtao.github.io/project/</link>
+    <description>Recent content in Projects on Jingtao Lai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jingtao Lai</copyright>
+    <lastBuildDate>Fri, 19 Jan 2018 14:14:29 -0600</lastBuildDate>
+    
+	<atom:link href="https://laijingtao.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Glacial erosion in orogenic belts</title>
+      <link>https://laijingtao.github.io/project/glacial_erosion/</link>
+      <pubDate>Fri, 19 Jan 2018 14:14:29 -0600</pubDate>
+      
+      <guid>https://laijingtao.github.io/project/glacial_erosion/</guid>
+      <description>Why Glacial erosion is a key component linking climate, tectonics and surface processes. Previous study has proposed a theory that glacial erosion can provide both destructive and constructive controls on mountain building. Warm-based glaciers have fast basal sliding rates and usually have higher erosion power than fluvial processes. Code-based glaciers, however, have slow basal sliding rate and lower erosion power. Therefore, warm-based glaciers can limit mountain heights by erosion and cold-based glaciers can protect mountains from erosion.</description>
+    </item>
+    
+    <item>
+      <title>Post-glacial landscape evolution</title>
+      <link>https://laijingtao.github.io/project/postglacial/</link>
+      <pubDate>Thu, 18 Jan 2018 14:01:16 -0600</pubDate>
+      
+      <guid>https://laijingtao.github.io/project/postglacial/</guid>
+      <description>Background Landscapes of the US Midwest were repeatedly affected by the southernmost portions of the Laurentide Ice Sheet during the Quaternary. Over much of the Midwest, depositional glacial processes diminished pre-glacial relief by filling valleys and left constructional landforms including low-relief till plains and high relief moraines. As the ice retreated, meltwater collected in subglacial or proglacial lakes leaving fine-grained, sorted sediment in the form of glacial lake plains. Glacial lakes episodically drained in outburst floods, carving deep valleys.</description>
+    </item>
+    
+  </channel>
+</rss>
