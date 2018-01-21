@@ -11,39 +11,55 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Pypismplot</title>
+      <link>https://laijingtao.github.io/code/pypismplot/</link>
+      <pubDate>Fri, 19 Jan 2018 14:49:08 -0600</pubDate>
+      
+      <guid>https://laijingtao.github.io/code/pypismplot/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/laijingtao/pypismplot&#34; target=&#34;_blank&#34;&gt;Get source code from Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Plot PISM data using matplotlib and netcdf4-python&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Glacial erosion in orogenic belts</title>
+      <link>https://laijingtao.github.io/project/glacial_erosion/</link>
+      <pubDate>Fri, 19 Jan 2018 14:14:29 -0600</pubDate>
+      
+      <guid>https://laijingtao.github.io/project/glacial_erosion/</guid>
+      <description>
+
+&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;
+
+&lt;p&gt;Glacial erosion is a key component linking climate, tectonics and surface processes. Previous study has proposed a theory that glacial erosion can provide both destructive and constructive controls on mountain building. Warm-based glaciers have fast basal sliding rates and usually have higher erosion power than fluvial processes. Code-based glaciers, however, have slow basal sliding rate and lower erosion power. Therefore, warm-based glaciers can limit mountain heights by erosion and cold-based glaciers can protect mountains from erosion. My research aims to test this theory using numerical models.&lt;/p&gt;
+
+&lt;h2 id=&#34;how&#34;&gt;How&lt;/h2&gt;
+
+&lt;p&gt;I conduct a series of numerical experiments to simulate the glaciation in a steady-state mountain belt using &lt;a href=&#34;http://pism-docs.org/wiki/doku.php?id=home&#34; target=&#34;_blank&#34;&gt;Parallel Ice Sheet Model (PISM)&lt;/a&gt;. The bedrock topography is a synthetic fluvial landscape in steady state, representing typical pre-glaciation landscapes. The experiments cover a range of various climatic conditions represented by different values of mean annual sea-level temperature and mean annual precipitation. The erosion rate is estimated by a linear erosion law that the erosion rate is proportional to the basal sliding velocity.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-i-learn&#34;&gt;What I learn&lt;/h2&gt;
+
+&lt;p&gt;Preliminary analysis of the results shows that when the ELAs in different runs are similar, the glaciers in colder climate conditions have lower total erosion. This finding is consistent with the hypothesis.&lt;/p&gt;
+
+&lt;p&gt;If you want to learn more about this research, &lt;a href=&#34;mailto:jlai11@illinois.edu&#34; target=&#34;_blank&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Landlab</title>
       <link>https://laijingtao.github.io/code/landlab/</link>
       <pubDate>Thu, 18 Jan 2018 15:26:24 -0600</pubDate>
       
       <guid>https://laijingtao.github.io/code/landlab/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/laijingtao/landlab&#34; target=&#34;_blank&#34;&gt;Get source code from Github&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>First Post</title>
-      <link>https://laijingtao.github.io/post/myfirstpost/</link>
-      <pubDate>Wed, 17 Jan 2018 21:51:22 -0600</pubDate>
-      
-      <guid>https://laijingtao.github.io/post/myfirstpost/</guid>
-      <description>&lt;h4 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h4&gt;
-
-&lt;p&gt;
-This is my personal website. I&amp;rsquo;m learning how to manage it with &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Useful links:&lt;br /&gt;
-&lt;a href=&#34;https://gohugo.io/hosting-and-deployment/hosting-on-github/&#34; target=&#34;_blank&#34;&gt;Host a website created by Hugo on Github&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/&#34; target=&#34;_blank&#34;&gt;Managing content&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Writing content&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;-Jingtao&lt;br /&gt;
-Jan 17 2018&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Modeled post-glacial landscape evolution at the southern margin of the Laurentide Ice Sheet</title>
+      <title>Post-glacial landscape evolution</title>
       <link>https://laijingtao.github.io/project/postglacial/</link>
-      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Jan 2018 14:01:16 -0600</pubDate>
       
       <guid>https://laijingtao.github.io/project/postglacial/</guid>
       <description>
@@ -84,6 +100,26 @@ Jan 17 2018&lt;/p&gt;</description>
 
 &lt;p&gt;I presented this research in AGU 2017 Fall Meeting. A manuscript has been submitted to &lt;em&gt;Journal of Geophysical Research: Earth Surface&lt;/em&gt;. If you want to learn more about this research, &lt;a href=&#34;mailto:jlai11@illinois.edu&#34; target=&#34;_blank&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://laijingtao.github.io/post/hello_world/</link>
+      <pubDate>Wed, 17 Jan 2018 21:51:22 -0600</pubDate>
+      
+      <guid>https://laijingtao.github.io/post/hello_world/</guid>
+      <description>&lt;h4 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h4&gt;
+
+&lt;p&gt;
+This is my first post. I&amp;rsquo;m learning how to manage it with &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Some useful links:&lt;br /&gt;
+&lt;a href=&#34;https://gohugo.io/hosting-and-deployment/hosting-on-github/&#34; target=&#34;_blank&#34;&gt;Host a website created by Hugo on Github&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/&#34; target=&#34;_blank&#34;&gt;Managing content&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Writing content&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;-Jingtao&lt;br /&gt;
+Jan 17 2018&lt;/p&gt;</description>
     </item>
     
   </channel>

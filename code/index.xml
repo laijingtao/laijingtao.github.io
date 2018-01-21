@@ -13,12 +13,22 @@
     
     
     <item>
+      <title>Pypismplot</title>
+      <link>https://laijingtao.github.io/code/pypismplot/</link>
+      <pubDate>Fri, 19 Jan 2018 14:49:08 -0600</pubDate>
+      
+      <guid>https://laijingtao.github.io/code/pypismplot/</guid>
+      <description>Get source code from Github
+Plot PISM data using matplotlib and netcdf4-python</description>
+    </item>
+    
+    <item>
       <title>Landlab</title>
       <link>https://laijingtao.github.io/code/landlab/</link>
       <pubDate>Thu, 18 Jan 2018 15:26:24 -0600</pubDate>
       
       <guid>https://laijingtao.github.io/code/landlab/</guid>
-      <description>test</description>
+      <description>Get source code from Github</description>
     </item>
     
   </channel>

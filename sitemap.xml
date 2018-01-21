@@ -5,8 +5,8 @@
     
     <url>
     
-      <loc>https://laijingtao.github.io/code/landlab/</loc>
-      <lastmod>2018-01-18T15:26:24-06:00</lastmod>
+      <loc>https://laijingtao.github.io/code/pypismplot/</loc>
+      <lastmod>2018-01-19T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -14,8 +14,17 @@
     
     <url>
     
-      <loc>https://laijingtao.github.io/post/myfirstpost/</loc>
-      <lastmod>2018-01-17T21:51:22-06:00</lastmod>
+      <loc>https://laijingtao.github.io/project/glacial_erosion/</loc>
+      <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://laijingtao.github.io/code/landlab/</loc>
+      <lastmod>2018-01-19T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -25,6 +34,15 @@
     
       <loc>https://laijingtao.github.io/project/postglacial/</loc>
       <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://laijingtao.github.io/post/hello_world/</loc>
+      <lastmod>2018-01-17T21:51:22-06:00</lastmod>
     </url>
     
   
@@ -87,6 +105,16 @@
     
     <url>
     
+      <loc>https://laijingtao.github.io/tags/glacial/</loc>
+      <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://laijingtao.github.io/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -137,6 +165,16 @@
     <url>
     
       <loc>https://laijingtao.github.io/tags/</loc>
+      <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://laijingtao.github.io/tags/tectonics/</loc>
       <lastmod>2018-01-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
