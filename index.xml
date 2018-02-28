@@ -40,17 +40,17 @@
       <guid>https://laijingtao.github.io/project/glacial_erosion/</guid>
       <description>
 
-&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 
-&lt;p&gt;Glacial erosion is a key component linking climate, tectonics and surface processes. Previous study has proposed a theory that glacial erosion can provide both destructive and constructive controls on mountain building. Warm-based glaciers have fast basal sliding rates and usually have higher erosion power than fluvial processes. Code-based glaciers, however, have slow basal sliding rate and lower erosion power. Therefore, warm-based glaciers can limit mountain heights by erosion and cold-based glaciers can protect mountains from erosion. My research aims to test this theory using numerical models.&lt;/p&gt;
+&lt;p&gt;The relationship between late Cenozoic cooling and the dynamics of mountain building has been in debate for decades, and glacial erosion is a critical component that links climate to tectonic deformation. Glaciers may limit the height of mountain ranges through an efficient denudation mechanism known as “glacial buzzsaw”. This theory is supported by a correlation between the equilibrium line altitudes (ELA) and maximum height of mountain ranges. However, the correlation between ELA and mountain heights breaks down in high-latitude regions, where mountain peaks attain elevations above the ELA of Last Glacial Maximum (LGM) and erosion is slower than mid-latitude regions. The specific mechanisms responsible for such observations are in debate.&lt;/p&gt;
 
-&lt;h2 id=&#34;how&#34;&gt;How&lt;/h2&gt;
+&lt;p&gt;One hypothesis is that toward high-latitude region, glaciers are more frequently frozen to the bed and these cold-based glaciers will protect topography from erosion. Glaciers erode bedrock primarily by abrasion and quarrying. Although the detailed physical mechanism of glacial erosion still remains unclear,  most landscape evolution models assume a power law that relates glacial erosion rate to either sliding velocity or flux of glaciers. Cold-based glaciers have lower sliding velocity and flux, therefore they are less erosive.&lt;/p&gt;
+
+&lt;p&gt;This research aims to test this hypothesis using numerical models. We will quantify the impact of climate on glacier dynamics and estimate the glacial erosion rates in orogenic belts. We will investigate the spatial pattern of glacial erosion rates under different climatic conditions. Furthermore, we will investigate how bedrock topography responds to different patterns of glacial erosion.&lt;/p&gt;
+
+&lt;h2 id=&#34;method&#34;&gt;Method&lt;/h2&gt;
 
 &lt;p&gt;I conduct a series of numerical experiments to simulate the glaciation in a steady-state mountain belt using &lt;a href=&#34;http://pism-docs.org/wiki/doku.php?id=home&#34; target=&#34;_blank&#34;&gt;Parallel Ice Sheet Model (PISM)&lt;/a&gt;. The bedrock topography is a synthetic fluvial landscape in steady state, representing typical pre-glaciation landscapes. The experiments cover a range of various climatic conditions represented by different values of mean annual sea-level temperature and mean annual precipitation. The erosion rate is estimated by a linear erosion law that the erosion rate is proportional to the basal sliding velocity.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-i-learn&#34;&gt;What I learn&lt;/h2&gt;
-
-&lt;p&gt;Preliminary analysis of the results shows that when the ELAs in different runs are similar, the glaciers in colder climate conditions have lower total erosion. This finding is consistent with the hypothesis.&lt;/p&gt;
 
 &lt;p&gt;If you want to learn more about this research, &lt;a href=&#34;mailto:jlai11@illinois.edu&#34; target=&#34;_blank&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
 </description>
