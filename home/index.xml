@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Research Projects</title>
+      <link>https://laijingtao.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://laijingtao.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Selected Publications</title>
       <link>https://laijingtao.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
@@ -31,11 +40,11 @@
     </item>
     
     <item>
-      <title>Research Projects</title>
-      <link>https://laijingtao.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Publications &amp; Conference Presentations</title>
+      <link>https://laijingtao.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://laijingtao.github.io/home/projects/</guid>
+      <guid>https://laijingtao.github.io/home/publications/</guid>
       <description></description>
     </item>
     
@@ -58,29 +67,11 @@
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://laijingtao.github.io/home/talks/</link>
+      <title>Contact</title>
+      <link>https://laijingtao.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://laijingtao.github.io/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://laijingtao.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://laijingtao.github.io/home/publications/</guid>
-      <description> Under construction </description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://laijingtao.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://laijingtao.github.io/home/teaching/</guid>
+      <guid>https://laijingtao.github.io/home/contact/</guid>
       <description></description>
     </item>
     
@@ -94,11 +85,20 @@
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://laijingtao.github.io/home/contact/</link>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://laijingtao.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://laijingtao.github.io/home/contact/</guid>
+      <guid>https://laijingtao.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://laijingtao.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://laijingtao.github.io/home/teaching/</guid>
       <description></description>
     </item>
     

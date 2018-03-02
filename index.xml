@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Modeled post-glacial landscape evolution at the southern margin of the Laurentide Ice Sheet: hydrological connection of uplands controls the pace and style of fluvial network expansion</title>
+      <link>https://laijingtao.github.io/publication/lai-jgr-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 17:16:14 -0600</pubDate>
+      
+      <guid>https://laijingtao.github.io/publication/lai-jgr-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>paramparser</title>
       <link>https://laijingtao.github.io/code/paramparser/</link>
       <pubDate>Thu, 25 Jan 2018 14:25:25 -0600</pubDate>
@@ -130,6 +139,24 @@ This is my first post. I&amp;rsquo;m learning how to manage it with &lt;a href=&
 
 &lt;p&gt;-Jingtao&lt;br /&gt;
 Jan 17 2018&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Modeled post-glacial landscape evolution at the southern margin of the Laurentide Ice Sheet: hydrological connection of uplands controls the pace and style of fluvial network expansion</title>
+      <link>https://laijingtao.github.io/publication/lai-agu-2017/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://laijingtao.github.io/publication/lai-agu-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical modeling of the evolution of fluvial networks on glaciated landscapes</title>
+      <link>https://laijingtao.github.io/publication/lai-agu-2016/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://laijingtao.github.io/publication/lai-agu-2016/</guid>
+      <description></description>
     </item>
     
   </channel>
