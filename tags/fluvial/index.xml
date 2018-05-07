@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Jingtao Lai</title>
-    <link>https://laijingtao.github.io/publication/</link>
-    <description>Recent content in Publications on Jingtao Lai</description>
+    <title>Fluvial on Jingtao Lai</title>
+    <link>https://laijingtao.github.io/tags/fluvial/</link>
+    <description>Recent content in Fluvial on Jingtao Lai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Jingtao Lai</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://laijingtao.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://laijingtao.github.io/tags/fluvial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,6 +19,15 @@
       
       <guid>https://laijingtao.github.io/publication/lai-jgr-2018/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Post-glacial landscape evolution</title>
+      <link>https://laijingtao.github.io/project/postglacial/</link>
+      <pubDate>Thu, 18 Jan 2018 14:01:16 -0600</pubDate>
+      
+      <guid>https://laijingtao.github.io/project/postglacial/</guid>
+      <description>Background Landscapes of the US Midwest were repeatedly affected by the southernmost portions of the Laurentide Ice Sheet during the Quaternary. Over much of the Midwest, depositional glacial processes diminished pre-glacial relief by filling valleys and left constructional landforms including low-relief till plains and high relief moraines. As the ice retreated, meltwater collected in subglacial or proglacial lakes leaving fine-grained, sorted sediment in the form of glacial lake plains. Glacial lakes episodically drained in outburst floods, carving deep valleys.</description>
     </item>
     
     <item>

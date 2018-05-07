@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jingtao Lai</title>
+    <link>https://laijingtao.github.io/tags/</link>
+    <description>Recent content in Tags on Jingtao Lai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jingtao Lai</copyright>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://laijingtao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fluvial</title>
+      <link>https://laijingtao.github.io/tags/fluvial/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://laijingtao.github.io/tags/fluvial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glacial</title>
+      <link>https://laijingtao.github.io/tags/glacial/</link>
+      <pubDate>Fri, 19 Jan 2018 14:14:29 -0600</pubDate>
+      
+      <guid>https://laijingtao.github.io/tags/glacial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landscape-evolution</title>
+      <link>https://laijingtao.github.io/tags/landscape-evolution/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://laijingtao.github.io/tags/landscape-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post-glacial</title>
+      <link>https://laijingtao.github.io/tags/post-glacial/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://laijingtao.github.io/tags/post-glacial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tectonics</title>
+      <link>https://laijingtao.github.io/tags/tectonics/</link>
+      <pubDate>Fri, 19 Jan 2018 14:14:29 -0600</pubDate>
+      
+      <guid>https://laijingtao.github.io/tags/tectonics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

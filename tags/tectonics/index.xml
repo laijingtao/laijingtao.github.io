@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tectonics on Jingtao Lai</title>
+    <link>https://laijingtao.github.io/tags/tectonics/</link>
+    <description>Recent content in Tectonics on Jingtao Lai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jingtao Lai</copyright>
+    <lastBuildDate>Fri, 19 Jan 2018 14:14:29 -0600</lastBuildDate>
+    
+	<atom:link href="https://laijingtao.github.io/tags/tectonics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Glacial erosion in orogenic belts</title>
+      <link>https://laijingtao.github.io/project/glacial_erosion/</link>
+      <pubDate>Fri, 19 Jan 2018 14:14:29 -0600</pubDate>
+      
+      <guid>https://laijingtao.github.io/project/glacial_erosion/</guid>
+      <description>Background The relationship between late Cenozoic cooling and the dynamics of mountain building has been in debate for decades, and glacial erosion is a critical component that links climate to tectonic deformation. Glaciers may limit the height of mountain ranges through an efficient denudation mechanism known as “glacial buzzsaw”. This theory is supported by a correlation between the equilibrium line altitudes (ELA) and maximum height of mountain ranges. However, the correlation between ELA and mountain heights breaks down in high-latitude regions, where mountain peaks attain elevations above the ELA of Last Glacial Maximum (LGM) and erosion is slower than mid-latitude regions.</description>
+    </item>
+    
+  </channel>
+</rss>
