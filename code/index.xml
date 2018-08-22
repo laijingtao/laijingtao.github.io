@@ -13,22 +13,12 @@
     
     
     <item>
-      <title>paramparser</title>
-      <link>https://laijingtao.github.io/code/paramparser/</link>
-      <pubDate>Thu, 25 Jan 2018 14:25:25 -0600</pubDate>
+      <title>PISM</title>
+      <link>https://laijingtao.github.io/code/pism/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://laijingtao.github.io/code/paramparser/</guid>
-      <description>Get source code from Github</description>
-    </item>
-    
-    <item>
-      <title>pypismplot</title>
-      <link>https://laijingtao.github.io/code/pypismplot/</link>
-      <pubDate>Fri, 19 Jan 2018 14:49:08 -0600</pubDate>
-      
-      <guid>https://laijingtao.github.io/code/pypismplot/</guid>
-      <description>Get source code from Github
-Plot PISM data using matplotlib and netcdf4-python</description>
+      <guid>https://laijingtao.github.io/code/pism/</guid>
+      <description>The parallel Ice Sheet Model (PISM) is an open source, finite difference, shallow ice sheet model (website). I implement subglacial erosion in PISM to model glacial landscape evolution in mountain ranges.</description>
     </item>
     
     <item>
@@ -37,7 +27,8 @@ Plot PISM data using matplotlib and netcdf4-python</description>
       <pubDate>Thu, 18 Jan 2018 15:26:24 -0600</pubDate>
       
       <guid>https://laijingtao.github.io/code/landlab/</guid>
-      <description>Get source code from Github</description>
+      <description>Landlab is a python-based toolkit for modeling earth surface processes. Website.
+I implement the FlowRouterOverFlat module that calculates the ﬂow direction across topography with ﬂats. Get source code from Github.</description>
     </item>
     
   </channel>
