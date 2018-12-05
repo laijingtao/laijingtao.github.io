@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Climatic controls on glacial erosion – insights from numerical glacial landscape evolution modeling</title>
+      <link>https://laijingtao.github.io/publication/lai-gsa-2018/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://laijingtao.github.io/publication/lai-gsa-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PISM</title>
       <link>https://laijingtao.github.io/code/pism/</link>
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
