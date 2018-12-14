@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A comparison of basal sliding and erosion in numerical glacial landscape evolution models using two different sliding laws</title>
+      <link>https://laijingtao.github.io/publication/lai-agu-2018/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://laijingtao.github.io/publication/lai-agu-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Climatic controls on glacial erosion – insights from numerical glacial landscape evolution modeling</title>
       <link>https://laijingtao.github.io/publication/lai-gsa-2018/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 -0600</pubDate>
@@ -44,21 +53,13 @@
       <pubDate>Fri, 19 Jan 2018 14:14:29 -0600</pubDate>
       
       <guid>https://laijingtao.github.io/project/glacial_erosion/</guid>
-      <description>
+      <description>&lt;p&gt;Climate plays a significant role in controlling the evolution of alpine landscapes by influencing the rate and pattern of alpine glacier erosion. The equilibrium line altitude (ELA) is a common way to collapse climate into a single variable. The ELA is an integration of various factors controlling glacial mass balance and the position of the ELA is largely controlled by local temperature and snowfall rates. The location of the most rapid erosion is suggested to coincide with the intersection of the ELA and topography because the efficiency of glacial erosion is often assumed to be highest where the ice flux is at the maximum. However, theoretical models of glacial erosion indicate that the rate of glacial erosion is closely related to the basal sliding velocity and/or the subglacial water pressure fluctuation, rather than ice flux. Warm-based ice is therefore expected to have greater potential for erosion than cold-based ice. The different erosive power of warm-based versus cold-based ice has been suggested to be responsible for the formation of dissected low-relief plateaus on many glaciated continental margins. In a polythermal ice sheet, warm-based ice streams have been operating selective linear erosion of deep valleys and fjords, and the frozen-bed patches between ice streams have caused limited glacial modification.&lt;/p&gt;
 
-&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;The effect of basal thermal regime, however, has not been well explored for alpine glaciers. Previous analytical and numerical models either assume the glacier is all warm-based or only include a very simple calculation for basal temperature. Such treatment is practical because it reduces the complexity of the model, and it is also reasonable because most modern alpine glaciers in low- and mid-latitude regions are temperate and polythermal alpine glaciers only exist in high-latitude regions such as Canadian Arctic and high-altitude areas such as the European Alps. During glacial periods, the climate was cooler than today and polythermal glaciers are expected to be more common. For example, southern Patagonian Andes, where mountains have remained high elevations above the ELA of the Last Glacial Maximum and the bedrock cooling ages are old, may represent an example of glacial protection of an active orogen from erosion through an increase of cold-based conditions.&lt;/p&gt;
 
-&lt;p&gt;The relationship between late Cenozoic cooling and the dynamics of mountain building has been in debate for decades, and glacial erosion is a critical component that links climate to tectonic deformation. Glaciers may limit the height of mountain ranges through an efficient denudation mechanism known as “glacial buzzsaw”. This theory is supported by a correlation between the equilibrium line altitudes (ELA) and maximum height of mountain ranges. However, the correlation between ELA and mountain heights breaks down in high-latitude regions, where mountain peaks attain elevations above the ELA of Last Glacial Maximum (LGM) and erosion is slower than mid-latitude regions. The specific mechanisms responsible for such observations are in debate.&lt;/p&gt;
+&lt;p&gt;We explore how the spatial pattern of glacial erosion varies in different climates as a result of different basal thermal structures by using numerical modeling. We have built a glacial erosion model using the &lt;a href=&#34;http://pism-docs.org/wiki/doku.php?id=home&#34; target=&#34;_blank&#34;&gt;Parallel Ice Sheet Model (PISM)&lt;/a&gt;. Given bedrock topography, annual average near-surface air temperature at sea level, and annual precipitation rates, PISM computes the evolution of the thermal and dynamic states of the glacier over time. We have implemented a simple erosion model into PISM. The rate of erosion is modeled as a linear function of the basal sliding velocity.&lt;/p&gt;
 
-&lt;p&gt;One hypothesis is that toward high-latitude region, glaciers are more frequently frozen to the bed and these cold-based glaciers will protect topography from erosion. Glaciers erode bedrock primarily by abrasion and quarrying. Although the detailed physical mechanism of glacial erosion still remains unclear,  most landscape evolution models assume a power law that relates glacial erosion rate to either sliding velocity or flux of glaciers. Cold-based glaciers have lower sliding velocity and flux, therefore they are less erosive.&lt;/p&gt;
-
-&lt;p&gt;This research aims to test this hypothesis using numerical models. We will quantify the impact of climate on glacier dynamics and estimate the glacial erosion rates in orogenic belts. We will investigate the spatial pattern of glacial erosion rates under different climatic conditions. Furthermore, we will investigate how bedrock topography responds to different patterns of glacial erosion.&lt;/p&gt;
-
-&lt;h2 id=&#34;method&#34;&gt;Method&lt;/h2&gt;
-
-&lt;p&gt;I conduct a series of numerical experiments to simulate the glaciation in a steady-state mountain belt using &lt;a href=&#34;http://pism-docs.org/wiki/doku.php?id=home&#34; target=&#34;_blank&#34;&gt;Parallel Ice Sheet Model (PISM)&lt;/a&gt;. The bedrock topography is a synthetic fluvial landscape in steady state, representing typical pre-glaciation landscapes. The experiments cover a range of various climatic conditions represented by different values of mean annual sea-level temperature and mean annual precipitation. The erosion rate is estimated by a linear erosion law that the erosion rate is proportional to the basal sliding velocity.&lt;/p&gt;
-
-&lt;p&gt;If you want to learn more about this research, &lt;a href=&#34;mailto:jlai11@illinois.edu&#34; target=&#34;_blank&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I presented some results of this study at the GSA 2018 Annual Meeting. If you want to learn more about this research, &lt;a href=&#34;mailto:jlai11@illinois.edu&#34; target=&#34;_blank&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -126,7 +127,8 @@
       <guid>https://laijingtao.github.io/post/hello_world/</guid>
       <description>&lt;h4 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h4&gt;
 
-&lt;p&gt;This is my first post. I&amp;rsquo;m learning how to manage it with &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+This is my first post. I&amp;rsquo;m learning how to manage it with &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Some useful links:&lt;br /&gt;
 &lt;a href=&#34;https://gohugo.io/hosting-and-deployment/hosting-on-github/&#34; target=&#34;_blank&#34;&gt;Host a website created by Hugo on Github&lt;/a&gt;&lt;br /&gt;

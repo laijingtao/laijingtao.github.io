@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Jingtao Lai</copyright>
-    <lastBuildDate>Wed, 07 Nov 2018 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://laijingtao.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A comparison of basal sliding and erosion in numerical glacial landscape evolution models using two different sliding laws</title>
+      <link>https://laijingtao.github.io/publication/lai-agu-2018/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://laijingtao.github.io/publication/lai-agu-2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Climatic controls on glacial erosion – insights from numerical glacial landscape evolution modeling</title>
