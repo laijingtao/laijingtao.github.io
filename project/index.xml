@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | JINGTAO LAI | 来景涛</title>
+    <link>https://laijingtao.github.io/project/</link>
+      <atom:link href="https://laijingtao.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020 Jingtao Lai</copyright><lastBuildDate>Tue, 11 Aug 2020 00:33:22 -0500</lastBuildDate>
+    <image>
+      <url>https://laijingtao.github.io/images/icon_hu777a9264d630b7629242c4f6aa20656f_168133_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://laijingtao.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Tectonic and climatic control on glacial erosion</title>
+      <link>https://laijingtao.github.io/project/glacial_erosion_modeling/</link>
+      <pubDate>Tue, 11 Aug 2020 00:33:22 -0500</pubDate>
+      <guid>https://laijingtao.github.io/project/glacial_erosion_modeling/</guid>
+      <description>&lt;p&gt;Glacial erosion has shaped many mountain ranges during the Late Cenozoic glaciation. To understand the controls of tectonics and climate on glacial erosion, I’ve developed a numerical landscape evolution model that I couple with a thermomechanically coupled ice sheet model to examine the sensitivities of glacier dynamics and glacial erosion to various tectonic and climatic conditions. Using this model, I investigate the response of glacial erosion to increased geothermal heat flow. The model reveals a tendency for increased glacial erosion with increasing geothermal heat flow, suggesting a novel interaction between tectonics and glacial erosion: tectonics may accelerate glacial erosion by elevating geothermal heat (Lai and Anders, 2020, &lt;em&gt;EPSL&lt;/em&gt;). I also investigate the impact of climate on the patterns and rates of glacial erosion. This research suggests that climate controls glacial erosion primarily through the basal thermal regime and glacial erosion tends to be maximized at the transition between cold-based and warm-based ice. This finding challenges the traditional view that glacial erosion is greatest at the intersection between bedrock topography and the equilibrium line altitudes of glaciers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Postglacial landscape evolution in US Midwest</title>
+      <link>https://laijingtao.github.io/project/postglacial_midwest/</link>
+      <pubDate>Mon, 10 Aug 2020 23:01:04 -0500</pubDate>
+      <guid>https://laijingtao.github.io/project/postglacial_midwest/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Landscapes of the US Midwest were repeatedly affected by the southernmost portions of the Laurentide Ice Sheet during the Quaternary. Over much of the Midwest, depositional glacial processes diminished pre-glacial relief by filling valleys and left constructional landforms including low-relief till plains and high relief moraines. As the ice retreated, meltwater collected in subglacial or proglacial lakes leaving fine-grained, sorted sediment in the form of glacial lake plains. Glacial lakes episodically drained in outburst floods, carving deep valleys.&lt;/p&gt;
+&lt;p&gt;However, meltwater valleys did not provide a landscape-wide integrated drainage network. Instead, a significant fraction of the area of low-relief till plains and glacial lake plains was occupied by closed depressions and remained unconnected to external drainage networks. This area is referred to by hydrologists as non-contributing area (NCA) because it does not typically contribute surface runoff to stream networks. NCA becomes integrated into external drainage networks over time.&lt;/p&gt;
+&lt;h2 id=&#34;hypothesis&#34;&gt;Hypothesis&lt;/h2&gt;
+&lt;p&gt;We propose that this integration could occur via at least two different paths:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;through capture of NCA as channel heads propagate into the upland or,&lt;/li&gt;
+&lt;li&gt;through erosion of a channel along a flow path that, perhaps intermittently, connects NCA to the external drainage network.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We refer the two cases as &lt;strong&gt;“disconnected”&lt;/strong&gt; and &lt;strong&gt;“connected”&lt;/strong&gt; since the crucial difference between them is the hydrological connection of the upland to external drainage.&lt;/p&gt;
+&lt;h2 id=&#34;method&#34;&gt;Method&lt;/h2&gt;
+&lt;p&gt;We investigate the difference in morphology and rate of growth of channel networks in low relief landscapes under disconnected and connected drainage regimes using numerical simulations of fluvial and hillslope processes.&lt;/p&gt;
+&lt;p&gt;We use the 
+&lt;a href=&#34;http://landlab.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Landlab&lt;/a&gt; model platform to simulate the evolution of post-glacial landscapes, starting from a flat low-relief surface. The surface evolves via detachment-limited fluvial incision and hillslope diffusion.&lt;/p&gt;
+&lt;p&gt;The model is coupled with a new flow routing algorithm that represents upland connection by spillover of water from closed depressions. The modified version of Landlab is 
+&lt;a href=&#34;https://github.com/laijingtao/landlab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;findings&#34;&gt;Findings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The growth of channel network is faster in the connected case than in the disconnected case.&lt;/li&gt;
+&lt;li&gt;The channel network in the connected case has longer and more sinuous channels than the disconnected case.&lt;/li&gt;
+&lt;li&gt;To accomplish the same degree of integration, the connected case removes less sediment than the disconnected case.&lt;/li&gt;
+&lt;li&gt;Holding the volumes of water constant shows that the disconnected case is more efficient than the connected case at eroding for limited volumes of accumulated discharge.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
