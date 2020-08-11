@@ -1,61 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Jingtao Lai</title>
+    <title>Tags | JINGTAO LAI | 来景涛</title>
     <link>https://laijingtao.github.io/tags/</link>
-    <description>Recent content in Tags on Jingtao Lai</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Jingtao Lai</copyright>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://laijingtao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Fluvial</title>
-      <link>https://laijingtao.github.io/tags/fluvial/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://laijingtao.github.io/tags/fluvial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Glacial</title>
-      <link>https://laijingtao.github.io/tags/glacial/</link>
-      <pubDate>Mon, 10 Dec 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://laijingtao.github.io/tags/glacial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Landscape-evolution</title>
-      <link>https://laijingtao.github.io/tags/landscape-evolution/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://laijingtao.github.io/tags/landscape-evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ozarks</title>
-      <link>https://laijingtao.github.io/tags/ozarks/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://laijingtao.github.io/tags/ozarks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Post-glacial</title>
-      <link>https://laijingtao.github.io/tags/post-glacial/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://laijingtao.github.io/tags/post-glacial/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://laijingtao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020 Jingtao Lai</copyright>
+    <image>
+      <url>https://laijingtao.github.io/images/icon_hu777a9264d630b7629242c4f6aa20656f_168133_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>https://laijingtao.github.io/tags/</link>
+    </image>
     
   </channel>
 </rss>

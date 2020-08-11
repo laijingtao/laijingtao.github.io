@@ -1,168 +1,118 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jingtao Lai on Jingtao Lai</title>
+    <title>JINGTAO LAI | 来景涛</title>
     <link>https://laijingtao.github.io/</link>
-    <description>Recent content in Jingtao Lai on Jingtao Lai</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Jingtao Lai</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+      <atom:link href="https://laijingtao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>JINGTAO LAI | 来景涛</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020 Jingtao Lai</copyright><lastBuildDate>Tue, 11 Aug 2020 00:33:22 -0500</lastBuildDate>
+    <image>
+      <url>https://laijingtao.github.io/images/icon_hu777a9264d630b7629242c4f6aa20656f_168133_512x512_fill_lanczos_center_2.png</url>
+      <title>JINGTAO LAI | 来景涛</title>
+      <link>https://laijingtao.github.io/</link>
+    </image>
     
     <item>
-      <title>The influence of flexural unloading and rock fractures on landscape evolution at the boundary between a cratonic platform and an orogen: A case study of uplift in the southern Ozark Plateau</title>
-      <link>https://laijingtao.github.io/publication/lai-gsa-2019/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://laijingtao.github.io/publication/lai-gsa-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A comparison of basal sliding and erosion in numerical glacial landscape evolution models using two different sliding laws</title>
-      <link>https://laijingtao.github.io/publication/lai-agu-2018/</link>
-      <pubDate>Mon, 10 Dec 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://laijingtao.github.io/publication/lai-agu-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Climatic controls on glacial erosion – insights from numerical glacial landscape evolution modeling</title>
-      <link>https://laijingtao.github.io/publication/lai-gsa-2018/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://laijingtao.github.io/publication/lai-gsa-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PISM</title>
-      <link>https://laijingtao.github.io/code/pism/</link>
-      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://laijingtao.github.io/code/pism/</guid>
-      <description>&lt;p&gt;The parallel Ice Sheet Model (PISM) is an open source, finite difference, shallow ice sheet model (&lt;a href=&#34;http://pism-docs.org/wiki/doku.php&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt;). I implement subglacial erosion in PISM to model glacial landscape evolution in mountain ranges.&lt;/p&gt;
+      <title>Tectonic and climatic control on glacial erosion</title>
+      <link>https://laijingtao.github.io/project/glacial_erosion_modeling/</link>
+      <pubDate>Tue, 11 Aug 2020 00:33:22 -0500</pubDate>
+      <guid>https://laijingtao.github.io/project/glacial_erosion_modeling/</guid>
+      <description>&lt;p&gt;Glacial erosion has shaped many mountain ranges during the Late Cenozoic glaciation. To understand the controls of tectonics and climate on glacial erosion, I’ve developed a numerical landscape evolution model that I couple with a thermomechanically coupled ice sheet model to examine the sensitivities of glacier dynamics and glacial erosion to various tectonic and climatic conditions. Using this model, I investigate the response of glacial erosion to increased geothermal heat flow. The model reveals a tendency for increased glacial erosion with increasing geothermal heat flow, suggesting a novel interaction between tectonics and glacial erosion: tectonics may accelerate glacial erosion by elevating geothermal heat (Lai and Anders, 2020, &lt;em&gt;EPSL&lt;/em&gt;). I also investigate the impact of climate on the patterns and rates of glacial erosion. This research suggests that climate controls glacial erosion primarily through the basal thermal regime and glacial erosion tends to be maximized at the transition between cold-based and warm-based ice. This finding challenges the traditional view that glacial erosion is greatest at the intersection between bedrock topography and the equilibrium line altitudes of glaciers.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Modeled post-glacial landscape evolution at the southern margin of the Laurentide Ice Sheet: hydrological connection of uplands controls the pace and style of fluvial network expansion</title>
-      <link>https://laijingtao.github.io/publication/lai-jgr-2018/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://laijingtao.github.io/publication/lai-jgr-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Climatic controls on spatial patterns of glacial erosion in mountains</title>
-      <link>https://laijingtao.github.io/project/climate_glacial_erosion/</link>
-      <pubDate>Fri, 19 Jan 2018 14:14:29 -0600</pubDate>
-      
-      <guid>https://laijingtao.github.io/project/climate_glacial_erosion/</guid>
-      <description>&lt;p&gt;Climate plays a significant role in controlling the evolution of alpine landscapes by influencing the rate and pattern of alpine glacier erosion. The equilibrium line altitude (ELA) is a common way to collapse climate into a single variable. The ELA is an integration of various factors controlling glacial mass balance and the position of the ELA is largely controlled by local temperature and snowfall rates. The location of the most rapid erosion is suggested to coincide with the intersection of the ELA and topography because the efficiency of glacial erosion is often assumed to be highest where the ice flux is at the maximum. However, theoretical models of glacial erosion indicate that the rate of glacial erosion is closely related to the basal sliding velocity and/or the subglacial water pressure fluctuation, rather than ice flux. Warm-based ice is therefore expected to have greater potential for erosion than cold-based ice. The different erosive power of warm-based versus cold-based ice has been suggested to be responsible for the formation of dissected low-relief plateaus on many glaciated continental margins. In a polythermal ice sheet, warm-based ice streams have been operating selective linear erosion of deep valleys and fjords, and the frozen-bed patches between ice streams have caused limited glacial modification.&lt;/p&gt;
-
-&lt;p&gt;The effect of basal thermal regime, however, has not been well explored for alpine glaciers. Previous analytical and numerical models either assume the glacier is all warm-based or only include a very simple calculation for basal temperature. Such treatment is practical because it reduces the complexity of the model, and it is also reasonable because most modern alpine glaciers in low- and mid-latitude regions are temperate and polythermal alpine glaciers only exist in high-latitude regions such as Canadian Arctic and high-altitude areas such as the European Alps. During glacial periods, the climate was cooler than today and polythermal glaciers are expected to be more common. For example, southern Patagonian Andes, where mountains have remained high elevations above the ELA of the Last Glacial Maximum and the bedrock cooling ages are old, may represent an example of glacial protection of an active orogen from erosion through an increase of cold-based conditions.&lt;/p&gt;
-
-&lt;p&gt;We explore how the spatial pattern of glacial erosion varies in different climates as a result of different basal thermal structures by using numerical modeling. We have built a glacial erosion model using the &lt;a href=&#34;http://pism-docs.org/wiki/doku.php?id=home&#34; target=&#34;_blank&#34;&gt;Parallel Ice Sheet Model (PISM)&lt;/a&gt;. Given bedrock topography, annual average near-surface air temperature at sea level, and annual precipitation rates, PISM computes the evolution of the thermal and dynamic states of the glacier over time. We have implemented a simple erosion model into PISM. The rate of erosion is modeled as a linear function of the basal sliding velocity.&lt;/p&gt;
-
-&lt;p&gt;I presented some results of this study at the GSA 2018 Annual Meeting. If you want to learn more about this research, &lt;a href=&#34;mailto:jlai11@illinois.edu&#34; target=&#34;_blank&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Landlab</title>
-      <link>https://laijingtao.github.io/code/landlab/</link>
-      <pubDate>Thu, 18 Jan 2018 15:26:24 -0600</pubDate>
-      
-      <guid>https://laijingtao.github.io/code/landlab/</guid>
-      <description>&lt;p&gt;Landlab is a python-based toolkit for modeling earth surface processes. &lt;a href=&#34;http://landlab.github.io/#/&#34; target=&#34;_blank&#34;&gt;Website.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I implement the &lt;em&gt;FlowRouterOverFlat&lt;/em&gt; module that calculates the ﬂow direction across topography with ﬂats. Get source code from &lt;a href=&#34;https://github.com/laijingtao/landlab&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Post-glacial landscape evolution</title>
-      <link>https://laijingtao.github.io/project/postglacial/</link>
-      <pubDate>Thu, 18 Jan 2018 14:01:16 -0600</pubDate>
-      
-      <guid>https://laijingtao.github.io/project/postglacial/</guid>
-      <description>
-
-&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-
+      <title>Postglacial landscape evolution in US Midwest</title>
+      <link>https://laijingtao.github.io/project/postglacial_midwest/</link>
+      <pubDate>Mon, 10 Aug 2020 23:01:04 -0500</pubDate>
+      <guid>https://laijingtao.github.io/project/postglacial_midwest/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Landscapes of the US Midwest were repeatedly affected by the southernmost portions of the Laurentide Ice Sheet during the Quaternary. Over much of the Midwest, depositional glacial processes diminished pre-glacial relief by filling valleys and left constructional landforms including low-relief till plains and high relief moraines. As the ice retreated, meltwater collected in subglacial or proglacial lakes leaving fine-grained, sorted sediment in the form of glacial lake plains. Glacial lakes episodically drained in outburst floods, carving deep valleys.&lt;/p&gt;
-
 &lt;p&gt;However, meltwater valleys did not provide a landscape-wide integrated drainage network. Instead, a significant fraction of the area of low-relief till plains and glacial lake plains was occupied by closed depressions and remained unconnected to external drainage networks. This area is referred to by hydrologists as non-contributing area (NCA) because it does not typically contribute surface runoff to stream networks. NCA becomes integrated into external drainage networks over time.&lt;/p&gt;
-
 &lt;h2 id=&#34;hypothesis&#34;&gt;Hypothesis&lt;/h2&gt;
-
 &lt;p&gt;We propose that this integration could occur via at least two different paths:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;through capture of NCA as channel heads propagate into the upland or,&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;through capture of NCA as channel heads propagate into the upland or,&lt;/li&gt;
 &lt;li&gt;through erosion of a channel along a flow path that, perhaps intermittently, connects NCA to the external drainage network.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;We refer the two cases as &lt;strong&gt;“disconnected”&lt;/strong&gt; and &lt;strong&gt;“connected”&lt;/strong&gt; since the crucial difference between them is the hydrological connection of the upland to external drainage.&lt;/p&gt;
-
 &lt;h2 id=&#34;method&#34;&gt;Method&lt;/h2&gt;
-
 &lt;p&gt;We investigate the difference in morphology and rate of growth of channel networks in low relief landscapes under disconnected and connected drainage regimes using numerical simulations of fluvial and hillslope processes.&lt;/p&gt;
-
-&lt;p&gt;We use the &lt;a href=&#34;http://landlab.github.io&#34; target=&#34;_blank&#34;&gt;Landlab&lt;/a&gt; model platform to simulate the evolution of post-glacial landscapes, starting from a flat low-relief surface. The surface evolves via detachment-limited fluvial incision and hillslope diffusion.&lt;/p&gt;
-
-&lt;p&gt;The model is coupled with a new flow routing algorithm that represents upland connection by spillover of water from closed depressions. The modified version of Landlab is &lt;a href=&#34;https://github.com/laijingtao/landlab&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;We use the 
+&lt;a href=&#34;http://landlab.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Landlab&lt;/a&gt; model platform to simulate the evolution of post-glacial landscapes, starting from a flat low-relief surface. The surface evolves via detachment-limited fluvial incision and hillslope diffusion.&lt;/p&gt;
+&lt;p&gt;The model is coupled with a new flow routing algorithm that represents upland connection by spillover of water from closed depressions. The modified version of Landlab is 
+&lt;a href=&#34;https://github.com/laijingtao/landlab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;findings&#34;&gt;Findings&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;The growth of channel network is faster in the connected case than in the disconnected case.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;The growth of channel network is faster in the connected case than in the disconnected case.&lt;/li&gt;
 &lt;li&gt;The channel network in the connected case has longer and more sinuous channels than the disconnected case.&lt;/li&gt;
-&lt;li&gt;To accomplish the same degree of integration, the connected case removes less sediment than the disconnected case.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;To accomplish the same degree of integration, the connected case removes less sediment than the disconnected case.&lt;/li&gt;
 &lt;li&gt;Holding the volumes of water constant shows that the disconnected case is more efficient than the connected case at eroding for limited volumes of accumulated discharge.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Hello World</title>
-      <link>https://laijingtao.github.io/post/hello_world/</link>
-      <pubDate>Wed, 17 Jan 2018 21:51:22 -0600</pubDate>
-      
-      <guid>https://laijingtao.github.io/post/hello_world/</guid>
-      <description>&lt;h4 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h4&gt;
-
-&lt;p&gt;
-This is my first post. I&amp;rsquo;m learning how to manage it with &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Some useful links:&lt;br /&gt;
-&lt;a href=&#34;https://gohugo.io/hosting-and-deployment/hosting-on-github/&#34; target=&#34;_blank&#34;&gt;Host a website created by Hugo on Github&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/&#34; target=&#34;_blank&#34;&gt;Managing content&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Writing content&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;-Jingtao&lt;br /&gt;
-Jan 17 2018&lt;/p&gt;</description>
+      <title>Tectonic controls on rates and spatial patterns of glacial erosion through geothermal heat flux</title>
+      <link>https://laijingtao.github.io/publication/epsl_2020_geothermal/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://laijingtao.github.io/publication/epsl_2020_geothermal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tectonic controls on rates and spatial patterns of glacial erosion through geothermal heat flux</title>
+      <link>https://laijingtao.github.io/publication/agu_2019_geothermal/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://laijingtao.github.io/publication/agu_2019_geothermal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of flexural unloading and rock fractures on landscape evolution at the boundary between a cratonic platform and an orogen: A case study of uplift in the southern Ozark Plateau</title>
+      <link>https://laijingtao.github.io/publication/gsa_2019_ozarks/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://laijingtao.github.io/publication/gsa_2019_ozarks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of basal sliding and erosion in numerical glacial landscape evolution models using two different sliding laws</title>
+      <link>https://laijingtao.github.io/publication/agu_2018_sliding_law/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://laijingtao.github.io/publication/agu_2018_sliding_law/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climatic controls on glacial erosion – insights from numerical glacial landscape evolution modeling</title>
+      <link>https://laijingtao.github.io/publication/gsa_2018_climatic_control/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://laijingtao.github.io/publication/gsa_2018_climatic_control/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Modeled post-glacial landscape evolution at the southern margin of the Laurentide Ice Sheet: hydrological connection of uplands controls the pace and style of fluvial network expansion</title>
-      <link>https://laijingtao.github.io/publication/lai-agu-2017/</link>
-      <pubDate>Sun, 10 Dec 2017 00:00:00 -0600</pubDate>
-      
-      <guid>https://laijingtao.github.io/publication/lai-agu-2017/</guid>
+      <link>https://laijingtao.github.io/publication/jgr_2018_postglacial/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://laijingtao.github.io/publication/jgr_2018_postglacial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeled post-glacial landscape evolution at the southern margin of the Laurentide Ice Sheet: hydrological connection of uplands controls the pace and style of fluvial network expansion</title>
+      <link>https://laijingtao.github.io/publication/agu_2017_postglaical/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://laijingtao.github.io/publication/agu_2017_postglaical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Numerical modeling of the evolution of fluvial networks on glaciated landscapes</title>
-      <link>https://laijingtao.github.io/publication/lai-agu-2016/</link>
-      <pubDate>Thu, 15 Dec 2016 00:00:00 -0600</pubDate>
-      
-      <guid>https://laijingtao.github.io/publication/lai-agu-2016/</guid>
+      <link>https://laijingtao.github.io/publication/agu_2016_postglacial/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://laijingtao.github.io/publication/agu_2016_postglacial/</guid>
       <description></description>
     </item>
     
