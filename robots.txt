@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://laijingtao.github.io/sitemap.xml
