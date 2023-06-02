@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Marie Skłodowska-Curie Postdoctoral Fellow</b>, GFZ Potsdam
+subtitle: <font size="+2">来景涛</font> <br> <b>Marie Skłodowska-Curie Postdoctoral Fellow</b> at GFZ Potsdam
 
 profile:
   align: right

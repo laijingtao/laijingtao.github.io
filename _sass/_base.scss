@@ -625,7 +625,7 @@ footer.sticky-bottom {
 
         >em {
           //border-bottom: 1px solid;
-          color: $blue-color;
+          color: var(--global-theme-color);
           font-style: normal;
           font-weight: bold;
         }
