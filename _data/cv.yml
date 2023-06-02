@@ -1,0 +1,47 @@
+- title: Research Interests
+  type: list
+  contents:
+      - Feedbacks between climate, tectonics and surface processes
+      - Fluvial and glacial geomorphology
+      - Numerical modeling of Earth surface processes
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Geology
+      institution: University of Illinois at Urbana-Champaign
+      year: 2020
+
+    - title: BSc in Geology
+      institution: Peking University
+      year: 2015
+
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Marie Skłodowska-Curie Postdoctoral Fellow
+      institution: GFZ Potsdam
+      year: Since 2022
+    - title: Postdoctoral Researcher
+      institution: GFZ Potsdam
+      year: 2021-2022
+    - title: Graduate Research/Teaching Assistant
+      institution: University of Illinois at Urbana-Champaign
+      year: 2016-2020
+
+    - title: Wanless Graduate Fellow
+      institution: University of Illinois at Urbana-Champaign
+      year: 2015-2016
+
+- title: Awards & Honors
+  type: time_table
+  contents:
+    - title: Marie Skłodowska-Curie Postdoctoral Fellowship
+      year: 2022
+
+    - title: EGU Outstanding Student and PhD candidate Presentation Award
+      year: 2021
+
+    - title: CSDMS Student Modeler Award, 3rd place
+      year: 2019
