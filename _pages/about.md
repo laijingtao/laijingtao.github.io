@@ -16,8 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+I am a geomorphologist studying the interactions between climate and Earth’s topography.
 I'm currently a Marie Skłodowska-Curie Postdoctoral Fellow based at the GFZ Potsdam, in the [Earth Surface Process Modelling section](https://www.gfz-potsdam.de/en/section/earth-surface-process-modelling/overview/).
 
-My research interests center around the interactions between climate, tectonics, and surface processes and their impacts on landscape evolution.
+I received my Ph.D. in Geology from the University of Illinois at Urbana-Champaign in 2020 and my B.Sc. in Geology from Peking University in 2015.
 
-My approach thus far has been to develop numerical landscape evolution models to explore the sensitivity of landscape characteristics to variability in climate, surface process regime, and tectonics.
+My research examines the evolution of Earth’s topography and how it interacts with climate and solid Earth. I combine numerical models with observational data to quantify the rates and patterns of landscape evolution. I am particularly interested in characterizing how glaciers and rivers change Earth’s topography during glacial-interglacial cycles.
