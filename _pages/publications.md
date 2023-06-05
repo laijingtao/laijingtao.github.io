@@ -16,6 +16,8 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 
+An up-to-date list is available on my [Google scholar profile](https://scholar.google.com/citations?user=wy_nhlQAAAAJ&hl=en).
+
 <!-- modified from https://github.com/alshedivat/al-folio/issues/1264 -->
 <div class="publications">
 
