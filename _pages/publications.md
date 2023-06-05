@@ -16,12 +16,12 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 
-<!-- https://github.com/alshedivat/al-folio/issues/1264 -->
+<!-- modified from https://github.com/alshedivat/al-folio/issues/1264 -->
 <div class="publications">
 
 {%- for section in page.sections %}
   <a id="{{section.text}}"></a>
-  <p class="bibtitle">{{section.text}}</p>
+  <h2 class="bibtypetitle">{{section.text}}</h2>
   {%- for y in page.years %}
 
     {%- comment -%}  Count bibliography in actual section and year {%- endcomment -%}
