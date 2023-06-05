@@ -7,11 +7,11 @@
  ******************************************************************************/
 :root {
   --global-bg-color: #ffffff;
-  --global-code-bg-color: rgba(0, 118, 223, 0.05);
+  --global-code-bg-color: rgba(181, 9, 172, 0.05);
   --global-text-color: #000000;
   --global-text-color-light: #828282;
-  --global-theme-color: #0076df;
-  --global-hover-color: #0076df;
+  --global-theme-color: #B509AC;
+  --global-hover-color: #B509AC;
   --global-hover-text-color: #ffffff;
   --global-footer-bg-color: #1C1C1D;
   --global-footer-text-color: #e8e8e8;
@@ -120,12 +120,6 @@ body.sticky-bottom-footer {
 /******************************************************************************
  * Publications
  ******************************************************************************/
-/* Mobile devices. With class="hidden-mobile" the element not show */
-/* Bib type style */
-h2.bibtypetitle {
-  text-align: right;
-}
-
 /*****************************************************************************
 * Projects
 *****************************************************************************/
@@ -256,7 +250,7 @@ blockquote {
 }
 .post-description {
   margin-bottom: 2rem;
-  font-size: 1.2rem;
+  font-size: 0.875rem;
 }
 .post-description a {
   color: inherit;
@@ -614,9 +608,8 @@ footer.sticky-bottom {
   text-decoration: none;
 }
 .publications ol.bibliography li .author > em {
-  color: var(--global-theme-color);
+  border-bottom: 1px solid;
   font-style: normal;
-  font-weight: bold;
 }
 .publications ol.bibliography li .author > span.more-authors {
   color: var(--global-text-color-light);
@@ -1059,6 +1052,32 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
   d-article d-contents nav {
     grid-column: none;
   }
+}
+/*******************************************************************************
+ * My own customization of the theme.
+ ******************************************************************************/
+:root {
+  --global-theme-color: #0076df;
+  --global-hover-color: #0076df;
+  --global-code-bg-color: rgba(0, 118, 223, 0.05);
+}
+
+/* Mobile devices. With class="hidden-mobile" the element not show */
+.publications h2.bibtypetitle {
+  text-align: right;
+}
+.publications ol.bibliography li .author {
+  font-size: 0.9rem;
+}
+.publications ol.bibliography li .author > em {
+  border-bottom: none;
+  color: var(--global-theme-color);
+  font-style: normal;
+  font-weight: bold;
+}
+
+.post-description {
+  font-size: 1.2rem;
 }
 
 /*# sourceMappingURL=main.css.map */
