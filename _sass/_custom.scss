@@ -1,0 +1,67 @@
+/*******************************************************************************
+ * My own customization of the theme.
+ ******************************************************************************/
+
+// Theme
+
+//$code-bg-color-light:   #{rgba($blue-color, 0.05)};
+:root {
+  --global-theme-color: #{$blue-color};
+  --global-hover-color: #{$blue-color}; 
+  --global-code-bg-color: #{rgba($blue-color, 0.05)};
+}
+
+// Publication
+
+// publication in different types
+// modified from https://github.com/alshedivat/al-folio/issues/1264
+/* Mobile devices. With class="hidden-mobile" the element not show */
+//@media (max-width: 576px) {
+//  .hidden-mobile {
+//  display: none;
+//  }
+//  /* Publications - Year display in mobile */
+//  h2.year {
+//  color: var(--global-divider-color);
+//  border-bottom: 1px solid var(--global-divider-color);
+//  margin-bottom: 2rem!important;
+//  // reset
+//  border-top: 0 !important;
+//  padding-top: 0 !important;
+//  margin-top: 0 !important;
+//}
+//}
+
+
+.publications{
+  // publication types
+  h2.bibtypetitle {
+    //color: var(--global-theme-color);
+    //font-weight: 400;
+    //font-size: 2em;
+    text-align: right;
+    //border-bottom: 1px solid #bbb;
+    }
+
+  ol.bibliography{
+    li{
+      // annote myself in author list
+      .author{
+        font-size: 0.9rem;
+
+        >em {
+          border-bottom: none;
+          color: var(--global-theme-color);
+          font-style: normal;
+          font-weight: bold;
+        }
+      }
+    }
+  }
+}
+
+
+// description of posts
+.post-description {
+  font-size: 1.2rem;
+}

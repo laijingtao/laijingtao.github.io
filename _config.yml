@@ -8,9 +8,9 @@ middle_name:
 last_name: LAI
 email: lai@gfz-potsdam.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Jingtao Lai | 来景涛
+  Jingtao Lai (来景涛) is an Earth scientist specializing Earth surface processes in glacial and fluvial environments.
 footer_text: #>
-  <br>
+  &nbsp
   #Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. 
   #Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: # add your own keywords or leave empty
@@ -178,12 +178,12 @@ collections:
 
 announcements:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
@@ -271,7 +271,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags wil
 scholar:
 
   last_name: [Lai]
-  first_name: ["Jingtao", "J", "J."]
+  first_name: ["Jingtao", "J", "J.", "Jingtao Lai"]
 
   style: apa
   locale: en
@@ -301,7 +301,7 @@ badges: # Display different badges for your publications
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3  # leave blank to always show all authors
+max_author_limit: # leave blank to always show all authors
 more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
 
 

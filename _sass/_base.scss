@@ -151,7 +151,7 @@ blockquote {
 
 .post-description {
   margin-bottom: 2rem;
-  font-size: 1.2rem;
+  font-size: 0.875rem;
 
   a {
     color: inherit;
@@ -624,10 +624,8 @@ footer.sticky-bottom {
         }
 
         >em {
-          //border-bottom: 1px solid;
-          color: var(--global-theme-color);
+          border-bottom: 1px solid;
           font-style: normal;
-          font-weight: bold;
         }
 
         >span.more-authors {
