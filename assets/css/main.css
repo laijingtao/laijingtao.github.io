@@ -1062,6 +1062,10 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
   --global-code-bg-color: rgba(0, 118, 223, 0.05);
 }
 
+.projects h2.category {
+  color: var(--global-text-color);
+}
+
 /* Mobile devices. With class="hidden-mobile" the element not show */
 .publications h2.bibtypetitle {
   text-align: right;
