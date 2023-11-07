@@ -11,6 +11,13 @@
   --global-code-bg-color: #{rgba($blue-color, 0.05)};
 }
 
+// Projects
+.projects {
+  h2.category {
+    color: var(--global-text-color);
+}
+}
+
 // Publication
 
 // publication in different types
