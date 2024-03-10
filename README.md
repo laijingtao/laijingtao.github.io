@@ -1,0 +1,1 @@
+Build website with "bundle exec jekyll serve --lsi"

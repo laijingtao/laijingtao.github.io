@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <font size="+2">来景涛</font> <br> <b>Marie Skłodowska-Curie Postdoctoral Fellow</b> at GFZ Potsdam
+subtitle: <font size="+2">来景涛</font> <br> <b>Postdoctoral Researcher</b> at GFZ Potsdam
 
 profile:
   align: right
@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I am a geomorphologist studying the interactions between climate and Earth’s topography.
-I'm currently a Marie Skłodowska-Curie Postdoctoral Fellow based at the GFZ Potsdam, in the [Earth Surface Process Modelling section](https://www.gfz-potsdam.de/en/section/earth-surface-process-modelling/overview/).
+I'm currently a Postdoctoral Researcher based at the GFZ Potsdam, in the [Earth Surface Process Modelling section](https://www.gfz-potsdam.de/en/section/earth-surface-process-modelling/overview/).
 
 I received my Ph.D. in Geology from the University of Illinois at Urbana-Champaign in 2020 and my B.Sc. in Geology from Peking University in 2015.
 
