@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jingtao
 middle_name: 
 last_name: LAI
-email: lai@gfz-potsdam.de
+email: jingtao.lai@glasgow.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Jingtao Lai (来景涛) is an Earth scientist specializing Earth surface processes in glacial and fluvial environments.
 footer_text: #>
@@ -86,7 +86,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
-research_gate_profile: # Jingtao-Lai # your profile on ResearchGate
+research_gate_profile: Jingtao-Lai # your profile on ResearchGate
 scopus_id: # 57201942009 # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
