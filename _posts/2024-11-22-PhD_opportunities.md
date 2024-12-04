@@ -12,7 +12,7 @@ Please see this [webpage](https://iapetus2.ac.uk/studentships/glacial-valleys-in
 
 The deadline to submit applications is __3rd January 2025__, and instructions on the application process are available [here](https://iapetus2.ac.uk/how-to-apply/). Please contact me at [Jingtao.Lai@glasgow.ac.uk](mailto:Jingtao.Lai@glasgow.ac.uk) if you have any questions about the project. Note that __international (non-UK) applicants must contact me by no later than 9th December 2024__ if they would like to be considered for sponsorship.
 
-### Glacial erosion in the Patagonia Andes
+### Glacial erosion in the Patagonian Andes
 
 Coming soon ... (expected online in mid December 2024)
 
