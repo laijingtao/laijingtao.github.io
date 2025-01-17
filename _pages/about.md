@@ -22,4 +22,4 @@ I received my Ph.D. in Geology from the University of Illinois at Urbana-Champai
 
 My research examines the evolution of Earth’s topography and how it interacts with climate and solid Earth. I combine numerical models with observational data to quantify the rates and patterns of landscape evolution. I am particularly interested in characterizing how glaciers and rivers change Earth’s topography during glacial-interglacial cycles.
 
-**Prospective collaboration & Ph.D. students**: please feel free to contact me via email for any collaboration, discussion of ideas, or Ph.D. student opportunities. 
+**Prospective collaboration & Ph.D. students**: please feel free to contact me via email for any collaboration, discussion of ideas, or [Ph.D. opportunities](/opportunities/). 
