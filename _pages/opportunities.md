@@ -15,19 +15,19 @@ These are fully-funded, competitive PhD opportunities.
 
 **ExaGEO DLA**
 
-- Understanding the Impacts of Extreme Climate Variability on Glaciated Landscapes
+- [Understanding the Impacts of Extreme Climate Variability on Glaciated Landscapes](https://www.exageo.org/phd-student-projects/#project-1963)
 
-- GPU-Accelerated Global-scale Modelling of Soil Production and Landscape Evolution
+- [GPU-Accelerated Global-scale Modelling of Soil Production and Landscape Evolution](https://www.exageo.org/phd-student-projects/#project-1969)
 
-- Data-Driven and Physics-Informed Hybrid Modelling of Landslide Dynamics
+- [Data-Driven and Physics-Informed Hybrid Modelling of Landslide Dynamics](https://www.exageo.org/phd-student-projects/#project-1984)
 
-For detailed project descriptions, please search the project titles on this [page](https://www.exageo.org/phd-student-projects/). The application deadline is 31 January 2027.
+Please refer to this [page](https://www.exageo.org/apply/) for details of the application process. The application deadline is 31 January 2027.
 
 **IAPETUS DTP**
 
-- Sediment release from glacial valleys in a changing climate: Interactions between valley morphology, sediment dynamics, and climate variations
+- [Geospatial Foundation Models in Geomorphology: New Insights into Controls on Landscape Denudation](https://iapetus.ac.uk/studentships/geospatial-foundation-models-in-geomorphology-new-insights-into-controls-on-landscape-denudation/)
 
-Please refer to this [link](https://iapetus.ac.uk/studentships/geospatial-foundation-models-in-geomorphology-new-insights-into-controls-on-landscape-denudation/) for further details. Please note that international applicants must contact me before **7 December 2026**, and the application deadline is 5 January 2027
+Please refer to this [page](https://iapetus.ac.uk/how-to-apply/) for details of the application process. Please note that international applicants must contact me before **7 December 2026**, and the application deadline is 5 January 2027
 
 #### College Scholarship at the University of Glasgow
 
